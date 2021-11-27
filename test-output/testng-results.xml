@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-07T16:59:06 IST" name="Suite" finished-at="2021-10-07T17:00:17 IST" duration-ms="71254">
+    <groups>
+    </groups>
+    <test started-at="2021-10-07T16:59:06 IST" name="Test" finished-at="2021-10-07T17:00:17 IST" duration-ms="71254">
+      <class name="solutions2.Question4">
+        <test-method is-config="true" signature="initiateDriver(java.lang.String)[pri:0, instance:solutions2.Question4@625732]" started-at="2021-10-07T16:59:06 IST" name="initiateDriver" finished-at="2021-10-07T16:59:28 IST" duration-ms="22447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="test()[pri:0, instance:solutions2.Question4@625732]" started-at="2021-10-07T16:59:28 IST" name="test" finished-at="2021-10-07T17:00:16 IST" duration-ms="48011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:solutions2.Question4@625732]" started-at="2021-10-07T17:00:16 IST" name="AfterTest" finished-at="2021-10-07T17:00:17 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- solutions2.Question4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
